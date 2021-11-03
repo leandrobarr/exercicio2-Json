@@ -1,0 +1,18 @@
+[
+	{
+		"funcionario": {
+			"website": "bet.com",
+			"nome": "Leandro",
+			"idade": "43",
+			"sobrenome": "Barros"
+		}
+	},
+	{
+		"funcionario": {
+			"website": "youtube.com",
+			"nome": "Gabriel",
+			"idade": "21",
+			"sobrenome": "Barros"
+		}
+	}
+]
